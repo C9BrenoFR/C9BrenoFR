@@ -44,4 +44,4 @@
     <img src="https://imgs.search.brave.com/I7KfUMoyvQ4eLj__sr06MaHDkidLwVKqBu17i1717WU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL1AvcHJvdG9u/LW1haWwtbG9nby0z/MUQ4Q0RDNzlFLXNl/ZWtsb2dvLmNvbS5w/bmc" width="40" height="40" />
    </div>
    
-   <p align="center"> <a href="https://www.instagram.com/brenufr/">Instagram</a> | <a href="https://www.linkedin.com/in/breno-furtado-rosado-a9aa5b291/">Linkedim</a> | <a href="mailto:frbreno@proton.me">frbreno@gmail.com</a> </p>
+   <p align="center"> <a href="https://www.instagram.com/brenufr/">Instagram</a> | <a href="https://www.linkedin.com/in/breno-furtado-rosado-a9aa5b291/">Linkedin</a> | <a href="mailto:frbreno@proton.me">frbreno@gmail.com</a> </p>
