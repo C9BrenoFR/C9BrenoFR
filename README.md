@@ -13,6 +13,8 @@
       <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" />
        <br>
+       <img src="https://skillicons.dev/icons?i=next,react,scss,ts&theme=dark" />
+       <br>
        <img src="https://skillicons.dev/icons?i=vite,bootstrap,tailwind,laravel&theme=dark"/>
        <br>
        <img src="https://skillicons.dev/icons?i=mysql,sqlite,cpp,npm&theme=dark"/>
@@ -23,9 +25,7 @@
     </td>
     <td align="center">
       <h3>Learning</h3>
-      <img src="https://skillicons.dev/icons?i=python,cs,java,ts&theme=dark" />
-       <br>
-      <img src="https://skillicons.dev/icons?i=next,react,nodejs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,cs,java,nodejs&theme=dark" />
        <br>
     </td>
   </tr>
