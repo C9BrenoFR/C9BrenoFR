@@ -17,15 +17,14 @@
        <br>
        <img src="https://skillicons.dev/icons?i=vite,bootstrap,tailwind,laravel&theme=dark"/>
        <br>
-       <img src="https://skillicons.dev/icons?i=mysql,sqlite,cpp,npm&theme=dark"/>
-       <br>
-       <img src="https://skillicons.dev/icons?i=vscode,figma,linux,git&theme=dark"/>
+       <img src="https://skillicons.dev/icons?i=mysql,sqlite,npm&theme=dark"/>
       </a>
      </p>
     </td>
     <td align="center">
       <h3>Learning</h3>
       <img src="https://skillicons.dev/icons?i=python,cs,java,nodejs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
        <br>
     </td>
   </tr>
